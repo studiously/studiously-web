@@ -1,0 +1,94 @@
+{
+  "current_user": "01BJ6THQTF2EJVHWCYX35DNHRP",
+  "users": [
+    {
+      "id": "01BJ6THQTF2EJVHWCYX35DNHRP",
+      "name": "Meyer Zinn",
+      "email": "meyerzinn@gmail.com"
+    },
+    {
+      "id": "01BJ6TQF708A7W6VWAMRXZD3K1",
+      "name": "Andres Arroyo"
+    },
+    {
+      "id": "01BJ6TQF70NJ8T5A0TPXWSYTZY",
+      "name": "Faraz Asim"
+    },
+    {
+      "id": "01BJ6TW54APFG2642MKTM9NE51",
+      "name": "Jackson Singhal"
+    },
+    {
+      "id": "01BJ6VQ7MWPTPSJF8TWG31AX0M",
+      "name": "Dr. Bonnie Flint"
+    }
+  ],
+  "classes": [
+    {
+      "id": "01BJ6TV2VXDWXE46720X97GYXM",
+      "name": "Biology",
+      "members": [
+        {
+          "user_id": "01BJ6TW54APFG2642MKTM9NE51",
+          "points": 135,
+          "role": 1
+        },
+        {
+          "user_id": "01BJ6TQF70NJ8T5A0TPXWSYTZY",
+          "points": 590,
+          "role": 1
+        },
+        {
+          "user_id": "01BJ6THQTF2EJVHWCYX35DNHRP",
+          "points": 256,
+          "role": 1
+        },
+        {
+          "user_id": "01BJ6TQF708A7W6VWAMRXZD3K1",
+          "points": 320,
+          "role": 1
+        },
+        {
+          "user_id": "01BJ6VQ7MWPTPSJF8TWG31AX0M",
+          "role": 2
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "01BJ6VQ7MWZJ9T69ZWM4H76ZCW",
+      "class_id": "01BJ6TV2VXDWXE46720X97GYXM",
+      "name": "Evolution"
+    },
+    {
+      "id": "01BJ6VQ7MWEDXFJX0XWWRJ7CJS",
+      "class_id": "01BJ6TV2VXDWXE46720X97GYXM",
+      "name": "Mitosis"
+    }
+  ],
+  "questions": [
+    {
+      "id": "01BJ7CEZGX92J4B9P7QBAXTRSX",
+      "type": "multiple_choice",
+      "author_id": "Mark White",
+      "unit_id": "01BJ7CEZGXYDMAFP2BM7XMYS0Z",
+      "rating": 10,
+      "data": {
+        "prompt": "What is the G₀ phase?"
+      },
+      "answered": false
+    },
+    {
+      "id": "01BJ7CEZGXX6CAMQP54M03QRZ9",
+      "type": "multiple_choice",
+      "author_id": "Andre Singleton",
+      "unit_id": "01BJ7CEZGXYDMAFP2BM7XMYS0Z",
+      "rating": 5,
+      "data": {
+        "prompt": "Which checkpoint controls Mitosis?"
+      },
+      "answered": true
+    }
+  ]
+}
